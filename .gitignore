@@ -1,1 +1,5 @@
-.cs3244/
+cs3244/
+data/
+
+df_features_with_semantics.csv
+df_with_features.csv
